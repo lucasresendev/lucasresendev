@@ -23,7 +23,7 @@
 
 ### 📖 Minha Trajetória
 
-- 💻 **A Origem Autodidata (2011–2015):** Na pré-adolescência, movido pela curiosidade de colocar servidores de jogos e sites de cadastro no ar, aprendi na prática **Lua, XML, SQL, XAMPP e MySQL** — e conquistei a fluência no inglês lendo documentações em fóruns gringos.
+- 💻 **A Origem Autodidata (2011–2015):** Na pré-adolescência, movido pela curiosidade de colocar servidores de jogos e sites de cadastro no ar, aprendi na prática **Lua, XML, SQL, XAMPP e MySQL**, e conquistei a fluência no inglês lendo documentações em fóruns gringos.
 - 📐 **Técnico em TI + Visão de Negócio (2016–2025):** Concluí o **Técnico em Informática (Etec)** com foco em lógica e, para conectar tecnologia a pessoas e negócios, busquei a **Graduação e Pós em Marketing Estratégico (UNIP / Anhembi Morumbi)**. Atuei por anos como o "tradutor" entre diretoria, operação e clientes.
 - 🚀 **O Reset e Convergência Full Stack (2026–Atualmente):** Decisão consciente de migrar 100% para Engenharia de Software. Conquistei o **4º lugar no vestibular da Fatec Taubaté** (ADS) e aprofundo os fundamentos de Ciência da Computação via **Harvard CS50x**, unindo código limpo, automação e visão de negócios.
 
