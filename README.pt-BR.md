@@ -33,10 +33,10 @@
 
 > 💡 Projetos focados em resolver problemas reais de negócio e processos, utilizando IA como ferramenta de produtividade e aceleração de desenvolvimento, enquanto consolido fundamentos teóricos.
 
-- 🇨🇳 **Plataforma Mandarim (Centro Tao Ch'an):** Web App em **Next.js & Supabase** orquestrado por IA para auxílio no ensino da língua chinesa.
-- ⚙️ **Automação Web de Processos (Colégio Progressão):** Sistema em **Google Apps Script** para agendamento de recursos que reduziu tempo de semanas para segundos (+100 colaboradores).
-- 🖼️ **Ferramenta Canvas JS (Vercel):** Aplicação interativa de automação gráfica para recortes nos formatos A3/A4.
-- 📊 **Engenharia de Dados (ETL):** Pipelines em JavaScript para sanitização de dados e relatórios dinâmicos no **Looker Studio**.
+- 🇨🇳 **[Plataforma Mandarim (Centro Tao Ch'an)](https://lucasresende.pages.dev/projeto-mandarin-app/):** Web App em **Next.js & Supabase** orquestrado por IA para auxílio no ensino da língua chinesa.
+- ⚙️ **[Automação Web de Processos (Colégio Progressão)](https://lucasresende.pages.dev/projeto-apps-script-calendar):** Sistema em **Google Apps Script** para agendamento de recursos que reduziu tempo de semanas para segundos (+100 colaboradores).
+- 🖼️ **[Ferramenta Canvas JS (Vercel)](https://lucasresende.pages.dev/projeto-canvas-app):** Aplicação interativa de automação gráfica para recortes nos formatos A3/A4.
+- 📊 **[Engenharia de Dados (ETL)](https://lucasresende.pages.dev/projeto-etl-analytics):** Pipelines em JavaScript para sanitização de dados e relatórios dinâmicos no **Looker Studio**.
 
 ---
 
