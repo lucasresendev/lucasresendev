@@ -42,7 +42,7 @@
 
 ### 🛠️ Matriz de Habilidades & Tecnologias
 
-| Categoria | 🟠 Base Consolidada | 🔵 Em Desenvolvimento (Fatec / CS50x) |
+| Categoria | 🟠 Base Consolidada | 🔵 Em Desenvolvimento |
 | :--- | :--- | :--- |
 | **Frontend & Web** | `JavaScript (ES6+)`, `HTML5`, `CSS3` | `React`, `Next.js`, `Tailwind CSS` |
 | **Backend & Banco de Dados** | `Supabase`, `Google Apps Script` | `Node.js`, `SQL / PostgreSQL`, `C` |
