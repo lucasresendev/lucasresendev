@@ -1,6 +1,6 @@
 <div align="center">
 
-🇺🇸 🇬🇧 **[English Version](https://github.com/lucasresendev/lucasresendev/blob/main/README.md)**
+🇺🇸 🇬🇧 🇨🇦 **[English Version](https://github.com/lucasresendev/lucasresendev/blob/main/README.md)**
   <br>
 
   # 👋 Olá, sou o Lucas Resende (`@lucasresendev`)
