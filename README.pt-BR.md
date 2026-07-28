@@ -1,5 +1,8 @@
 <div align="center">
 
+🇺🇸 🇬🇧 **[English Version](https://github.com/lucasresendev/lucasresendev/blob/main/README.md)**
+  <br>
+
   # 👋 Olá, sou o Lucas Resende (`@lucasresendev`)
 
   ### **Desenvolvedor de Software e Estudante de ADS na Fatec Taubaté**
