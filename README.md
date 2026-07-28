@@ -23,7 +23,7 @@
 
 ### 📖 My Journey
 
-- 💻 **The Self-Taught Beginnings (2011–2015):** As a young teen, driven by curiosity to host game servers and sign-up websites, I learned **Lua, XML, SQL, XAMPP, and MySQL** hands-on — while gaining English fluency reading international developer forums and documentation.
+- 💻 **The Self-Taught Beginnings (2011–2015):** As a young teen, driven by curiosity to host game servers and sign-up websites, I learned **Lua, XML, SQL, XAMPP, and MySQL** hands-on, while gaining English fluency reading international developer forums and documentation.
 - 📐 **IT Technician + Business Vision (2016–2025):** Completed a **Vocational IT Program (Etec)** focused on programming logic. To bridge technology, people, and business, I earned a **Bachelor's & Postgrad/MBA in Strategic Marketing (UNIP / Anhembi Morumbi)**. For years, I acted as the key translator between leadership, operations, and clients.
 - 🚀 **The Career Pivot & Full Stack Convergence (2026–Present):** Made a conscious transition to 100% Software Engineering. Ranked **4th place in the entrance exam for Fatec Taubaté** (Systems Analysis and Development) and currently deepening Computer Science fundamentals via **Harvard CS50x**, combining clean code, automation, and business strategy.
 
@@ -42,7 +42,7 @@
 
 ### 🛠️ Skills & Technology Matrix
 
-| Category | 🟠 Solid Foundation | 🔵 In Progress (Fatec / CS50x) |
+| Category | 🟠 Solid Foundation | 🔵 In Progress |
 | :--- | :--- | :--- |
 | **Frontend & Web** | `JavaScript (ES6+)`, `HTML5`, `CSS3` | `React`, `Next.js`, `Tailwind CSS` |
 | **Backend & Database** | `Supabase`, `Google Apps Script` | `Node.js`, `SQL / PostgreSQL`, `C` |
