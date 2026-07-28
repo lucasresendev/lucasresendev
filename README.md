@@ -3,7 +3,7 @@
   🇧🇷 **[Versão em Português](https://github.com/lucasresendev/lucasresendev/blob/main/README.pt-BR.md)**
   <br>
 
-  # 👋 Hi, I'm Lucas Resende (`@lucasresendev`)
+  # Lucas Resende (`@lucasresendev`)
 
   ### **Software Developer & Systems Analysis and Development Student at Fatec Taubaté**
 
