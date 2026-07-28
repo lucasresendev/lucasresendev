@@ -33,10 +33,10 @@
 
 > 💡 Projects focused on solving real-world business and workflow challenges, leveraging AI as a productivity accelerator while consolidating core CS fundamentals.
 
-- 🇨🇳 **Mandarin Learning Platform (Tao Ch'an Center):** Web app built with **Next.js & Supabase**, using AI orchestration to assist in teaching Mandarin Chinese.
-- ⚙️ **Process Web Automation (Colégio Progressão):** Resource scheduling platform built with **Google Apps Script** that reduced turnaround times from weeks to seconds across 100+ staff members.
-- 🖼️ **Canvas JS Tool (Vercel):** Interactive graphic automation tool for automated page splitting and layout fitting (A3/A4 formats).
-- 📊 **Data Engineering (ETL):** JavaScript data pipelines for data cleaning, sanitization, and dynamic reporting in **Looker Studio**.
+- 🇨🇳 **[Mandarin Learning Platform (Tao Ch'an Center)](https://lucasresende.pages.dev/projeto-mandarin-app/):** Web app built with **Next.js & Supabase**, using AI orchestration to assist in teaching Mandarin Chinese.
+- ⚙️ **[Process Web Automation (Colégio Progressão)](https://lucasresende.pages.dev/projeto-apps-script-calendar):** Resource scheduling platform built with **Google Apps Script** that reduced turnaround times from weeks to seconds across 100+ staff members.
+- 🖼️ **[Canvas JS Tool (Vercel)](https://lucasresende.pages.dev/projeto-canvas-app):** Interactive graphic automation tool for automated page splitting and layout fitting (A3/A4 formats).
+- 📊 **[Data Engineering (ETL)](https://lucasresende.pages.dev/projeto-etl-analytics):** JavaScript data pipelines for data cleaning, sanitization, and dynamic reporting in **Looker Studio**.
 
 ---
 
