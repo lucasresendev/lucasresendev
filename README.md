@@ -17,7 +17,7 @@
 
 ---
 
-> *"I view code not as an end in itself, but as a foundation for dissecting requirements and crafting solutions."*
+> *"I don't see code as an end in itself, but as a tool to break down needs and craft meaningful solutions."*
 
 ---
 
